@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Streamlit
+.streamlit/config.toml
+
+# Datos y temporales
+*.csv
+*.xlsx
+*.json
+!requirements.txt
+
